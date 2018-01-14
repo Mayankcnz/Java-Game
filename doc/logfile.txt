@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_91\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Owner\Downloads\ecs100 (1).jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban
+-d
+C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc
+-encoding
+US-ASCII
+-charset
+US-ASCII
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\Sokoban.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\Sokoban.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_91
+Building tree for all the packages and classes...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\Sokoban.html...
+C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\Sokoban.java:248: warning - @returns is an unknown tag.
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\package-frame.html...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\package-summary.html...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\allclasses-frame.html...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\allclasses-noframe.html...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\index.html...
+Generating C:\Users\Owner\Documents\COMP 103 2017\COMP 103 Assingment 2\Sokoban\doc\stylesheet.css...
+1 warning

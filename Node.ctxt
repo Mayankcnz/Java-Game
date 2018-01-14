@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=x\ y\ parent\ dir
+comment0.target=Node(int,\ int,\ Node,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Node\r\n
+comment1.params=
+comment1.target=Node\ getParent()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
